@@ -1,0 +1,990 @@
+{
+  "updated": "2025-12-28T13:27:27.646Z",
+  "count": 149,
+  "withImages": 140,
+  "themes": [
+    {
+      "id": 279,
+      "name": "4 Juniors",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4657-1/121544.jpg",
+      "theme_ids": "279,280,287",
+      "set_count": 54
+    },
+    {
+      "id": 296,
+      "name": "Adventurers",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5988-1/3625.jpg",
+      "theme_ids": "296,297,298,299,300",
+      "set_count": 83
+    },
+    {
+      "id": 302,
+      "name": "Agents",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8635-1/6740.jpg",
+      "theme_ids": "302,303",
+      "set_count": 28
+    },
+    {
+      "id": 304,
+      "name": "Alpha Team",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6776-1/79815.jpg",
+      "theme_ids": "304,305,306",
+      "set_count": 32
+    },
+    {
+      "id": 606,
+      "name": "Angry Birds",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75826-1/34642.jpg",
+      "theme_ids": "606",
+      "set_count": 6
+    },
+    {
+      "id": 752,
+      "name": "Animal Crossing",
+      "img_url": "https://cdn.rebrickable.com/media/sets/77057-1/156217.jpg",
+      "theme_ids": "752",
+      "set_count": 17
+    },
+    {
+      "id": 307,
+      "name": "Aquazone",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6104-1/3226.jpg",
+      "theme_ids": "307,308,309,310,311,312,313",
+      "set_count": 37
+    },
+    {
+      "id": 252,
+      "name": "Architecture",
+      "img_url": "https://cdn.rebrickable.com/media/sets/21061-1/140433.jpg",
+      "theme_ids": "252,253",
+      "set_count": 64
+    },
+    {
+      "id": 315,
+      "name": "Atlantis",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8078-1/51119.jpg",
+      "theme_ids": "315",
+      "set_count": 24
+    },
+    {
+      "id": 724,
+      "name": "Avatar",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75574-1/104065.jpg",
+      "theme_ids": "724",
+      "set_count": 9
+    },
+    {
+      "id": 317,
+      "name": "Avatar: The Last Airbender",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3829-1/16813.jpg",
+      "theme_ids": "317",
+      "set_count": 2
+    },
+    {
+      "id": 318,
+      "name": "Belville",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7586-1/15674.jpg",
+      "theme_ids": "318",
+      "set_count": 88
+    },
+    {
+      "id": 270,
+      "name": "Ben 10",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8410-1/7390.jpg",
+      "theme_ids": "270",
+      "set_count": 6
+    },
+    {
+      "id": 324,
+      "name": "Bionicle",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8996-1/1686.jpg",
+      "theme_ids": "324,341,360",
+      "set_count": 468
+    },
+    {
+      "id": 772,
+      "name": "Bluey",
+      "img_url": "https://cdn.rebrickable.com/media/sets/11203-1/152986.jpg",
+      "theme_ids": "772",
+      "set_count": 4
+    },
+    {
+      "id": 363,
+      "name": "Boat",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4031-1/8924.jpg",
+      "theme_ids": "363",
+      "set_count": 21
+    },
+    {
+      "id": 497,
+      "name": "Books",
+      "img_url": "https://cdn.rebrickable.com/media/sets/9780241247129-1/160079.jpg",
+      "theme_ids": "497,498,757,758,759,760,761",
+      "set_count": 1364
+    },
+    {
+      "id": 769,
+      "name": "Botanicals",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10289-1/148038.jpg",
+      "theme_ids": "769",
+      "set_count": 35
+    },
+    {
+      "id": 694,
+      "name": "Brick Sketches",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40536-1/99644.jpg",
+      "theme_ids": "694",
+      "set_count": 8
+    },
+    {
+      "id": 610,
+      "name": "Brickheadz",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40676-1/139276.jpg",
+      "theme_ids": "610",
+      "set_count": 188
+    },
+    {
+      "id": 719,
+      "name": "BrickLink Designer Program",
+      "img_url": "https://cdn.rebrickable.com/media/sets/910002-1/120712.jpg",
+      "theme_ids": "719",
+      "set_count": 58
+    },
+    {
+      "id": 364,
+      "name": "Building Set with People",
+      "img_url": "https://cdn.rebrickable.com/media/sets/190-1/17051.jpg",
+      "theme_ids": "364",
+      "set_count": 30
+    },
+    {
+      "id": 254,
+      "name": "Bulk Bricks",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10073-1/3479.jpg",
+      "theme_ids": "254",
+      "set_count": 136
+    },
+    {
+      "id": 269,
+      "name": "Cars",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8679-1/49448.jpg",
+      "theme_ids": "269",
+      "set_count": 28
+    },
+    {
+      "id": 186,
+      "name": "Castle",
+      "img_url": "https://cdn.rebrickable.com/media/sets/70404-1/3697.jpg",
+      "theme_ids": "186,187,188,189,190,191,193,194,195,196,197,198,199,201,203",
+      "set_count": 65
+    },
+    {
+      "id": 686,
+      "name": "Chinese Traditional Festivals",
+      "img_url": "https://cdn.rebrickable.com/media/sets/80113-1/129194.jpg",
+      "theme_ids": "686",
+      "set_count": 0
+    },
+    {
+      "id": 52,
+      "name": "City",
+      "img_url": "https://cdn.rebrickable.com/media/sets/60380-1/130656.jpg",
+      "theme_ids": "52,53,54,55,56,57,58,59,60,61,63,64,65,66,614,679,744",
+      "set_count": 39
+    },
+    {
+      "id": 621,
+      "name": "Classic",
+      "img_url": "https://cdn.rebrickable.com/media/sets/11033-1/132079.jpg",
+      "theme_ids": "621",
+      "set_count": 0
+    },
+    {
+      "id": 500,
+      "name": "Clikits",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7513-1/120111.jpg",
+      "theme_ids": "500",
+      "set_count": 0
+    },
+    {
+      "id": 535,
+      "name": "Collectible Minifigures",
+      "img_url": "https://cdn.rebrickable.com/media/sets/850449-1/47539.jpg",
+      "theme_ids": "535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,609,611,618,622,656,675,677,681,684,691,692,711,712,714,715,718,720,725,743,745,750,753,762,767,771,774,784,786",
+      "set_count": 238
+    },
+    {
+      "id": 22,
+      "name": "Creator",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3598-1/4896.jpg",
+      "theme_ids": "22,204,406,478,672,673,674",
+      "set_count": 190
+    },
+    {
+      "id": 617,
+      "name": "DC Super Hero Girls",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41239-1/13836.jpg",
+      "theme_ids": "617",
+      "set_count": 12
+    },
+    {
+      "id": 763,
+      "name": "Despicable Me 4",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75583-1/139487.jpg",
+      "theme_ids": "763",
+      "set_count": 5
+    },
+    {
+      "id": 604,
+      "name": "Dimensions",
+      "img_url": "https://cdn.rebrickable.com/media/sets/71170-1/38609.jpg",
+      "theme_ids": "604",
+      "set_count": 68
+    },
+    {
+      "id": 481,
+      "name": "Dino",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5887-1/45037.jpg",
+      "theme_ids": "481",
+      "set_count": 7
+    },
+    {
+      "id": 385,
+      "name": "Dino Attack / Dino 2010",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7298-1/343.jpg",
+      "theme_ids": "385",
+      "set_count": 12
+    },
+    {
+      "id": 386,
+      "name": "Dinosaurs",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7000-1/119841.jpg",
+      "theme_ids": "386",
+      "set_count": 17
+    },
+    {
+      "id": 387,
+      "name": "Discovery",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7471-1/76585.jpg",
+      "theme_ids": "387",
+      "set_count": 8
+    },
+    {
+      "id": 608,
+      "name": "Disney",
+      "img_url": "https://cdn.rebrickable.com/media/sets/43222-1/130721.jpg",
+      "theme_ids": "608,263,271,388,579,687",
+      "set_count": 67
+    },
+    {
+      "id": 688,
+      "name": "DOTS",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41806-1/131214.jpg",
+      "theme_ids": "688",
+      "set_count": 93
+    },
+    {
+      "id": 749,
+      "name": "Dreamzzz",
+      "img_url": "https://cdn.rebrickable.com/media/sets/71486-1/139525.jpg",
+      "theme_ids": "749",
+      "set_count": 66
+    },
+    {
+      "id": 504,
+      "name": "Duplo",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3957-1/121277.jpg",
+      "theme_ids": "504,505,626,628,630,631,632,636,650,634,639,647,651,652,653,657,658,659,660,661,662,663,664,665,666,722,754,506,627,629,633,635,638,640,641,648",
+      "set_count": 169
+    },
+    {
+      "id": 787,
+      "name": "Editions",
+      "img_url": "https://cdn.rebrickable.com/media/sets/43020-1/165343.jpg",
+      "theme_ids": "787",
+      "set_count": 1
+    },
+    {
+      "id": 507,
+      "name": "Educational and Dacta",
+      "img_url": "https://cdn.rebrickable.com/media/sets/45120-1/121565.jpg",
+      "theme_ids": "507,509,510,511,516,517,518,519,520,521,523,524,525,526,528,529,530,531,533,534",
+      "set_count": 118
+    },
+    {
+      "id": 600,
+      "name": "Elves",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41180-1/960.jpg",
+      "theme_ids": "600",
+      "set_count": 42
+    },
+    {
+      "id": 389,
+      "name": "Exo-Force",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7709-1/124147.jpg",
+      "theme_ids": "389",
+      "set_count": 52
+    },
+    {
+      "id": 390,
+      "name": "Fabuland",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3682-1/2731.jpg",
+      "theme_ids": "390",
+      "set_count": 107
+    },
+    {
+      "id": 397,
+      "name": "Factory",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5526-1/5616.jpg",
+      "theme_ids": "397",
+      "set_count": 7
+    },
+    {
+      "id": 398,
+      "name": "FIRST LEGO League",
+      "img_url": "https://cdn.rebrickable.com/media/sets/45820-1/106135.jpg",
+      "theme_ids": "398",
+      "set_count": 110
+    },
+    {
+      "id": 671,
+      "name": "Forma",
+      "img_url": "https://cdn.rebrickable.com/media/sets/81000-1/117.jpg",
+      "theme_ids": "671",
+      "set_count": 4
+    },
+    {
+      "id": 766,
+      "name": "Fortnite",
+      "img_url": "https://cdn.rebrickable.com/media/sets/77078-1/154752.jpg",
+      "theme_ids": "766",
+      "set_count": 11
+    },
+    {
+      "id": 399,
+      "name": "Freestyle",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4258-1/14012.jpg",
+      "theme_ids": "399",
+      "set_count": 66
+    },
+    {
+      "id": 494,
+      "name": "Friends",
+      "img_url": "https://cdn.rebrickable.com/media/sets/42639-1/133041.jpg",
+      "theme_ids": "494",
+      "set_count": 659
+    },
+    {
+      "id": 590,
+      "name": "Fusion",
+      "img_url": "https://cdn.rebrickable.com/media/sets/21208-1/38997.jpg",
+      "theme_ids": "590",
+      "set_count": 4
+    },
+    {
+      "id": 748,
+      "name": "Gabby's Dollhouse",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10788-1/121432.jpg",
+      "theme_ids": "748",
+      "set_count": 10
+    },
+    {
+      "id": 685,
+      "name": "Galidor",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8318-1/124318.jpg",
+      "theme_ids": "685",
+      "set_count": 21
+    },
+    {
+      "id": 502,
+      "name": "Games",
+      "img_url": "https://cdn.rebrickable.com/media/sets/50004-1/12027.jpg",
+      "theme_ids": "502",
+      "set_count": 47
+    },
+    {
+      "id": 501,
+      "name": "Gear",
+      "img_url": null,
+      "theme_ids": "501,503,730,731,732,733,734,735,736,737,738,739,740,741,742,777"
+    },
+    {
+      "id": 607,
+      "name": "Ghostbusters",
+      "img_url": null,
+      "theme_ids": "607"
+    },
+    {
+      "id": 246,
+      "name": "Harry Potter",
+      "img_url": null,
+      "theme_ids": "246,667"
+    },
+    {
+      "id": 400,
+      "name": "Hero Factory",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7160-1/3853.jpg",
+      "theme_ids": "400,401,403"
+    },
+    {
+      "id": 676,
+      "name": "Hidden Side",
+      "img_url": "https://cdn.rebrickable.com/media/sets/70425-1/22318.jpg",
+      "theme_ids": "676"
+    },
+    {
+      "id": 404,
+      "name": "Hobby Sets",
+      "img_url": "https://cdn.rebrickable.com/media/sets/398-1/1478.jpg",
+      "theme_ids": "404"
+    },
+    {
+      "id": 405,
+      "name": "Homemaker",
+      "img_url": "https://cdn.rebrickable.com/media/sets/232-1/202.jpg",
+      "theme_ids": "405"
+    },
+    {
+      "id": 770,
+      "name": "Horizon Adventures",
+      "img_url": "https://cdn.rebrickable.com/media/sets/77037-1/148005.jpg",
+      "theme_ids": "770"
+    },
+    {
+      "id": 721,
+      "name": "Icons",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10307-1/112417.jpg",
+      "theme_ids": "721"
+    },
+    {
+      "id": 264,
+      "name": "Indiana Jones",
+      "img_url": "https://cdn.rebrickable.com/media/sets/77015-1/118770.jpg",
+      "theme_ids": "264"
+    },
+    {
+      "id": 407,
+      "name": "Island Xtreme Stunts",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6740-1/119857.jpg",
+      "theme_ids": "407"
+    },
+    {
+      "id": 591,
+      "name": "Juniors",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10676-1/12471.jpg",
+      "theme_ids": "591,592,593,595,596,597,615,620,783"
+    },
+    {
+      "id": 602,
+      "name": "Jurassic World",
+      "img_url": "https://cdn.rebrickable.com/media/sets/76968-1/152803.jpg",
+      "theme_ids": "602"
+    },
+    {
+      "id": 571,
+      "name": "Legends of Chima",
+      "img_url": "https://cdn.rebrickable.com/media/sets/bigbox-1/17559.jpg",
+      "theme_ids": "571,572,573"
+    },
+    {
+      "id": 709,
+      "name": "LEGO Art",
+      "img_url": "https://cdn.rebrickable.com/media/sets/31203-1/88510.jpg",
+      "theme_ids": "709"
+    },
+    {
+      "id": 408,
+      "name": "LEGO Brand Store",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40145-1/98735.jpg",
+      "theme_ids": "408,409,410,619"
+    },
+    {
+      "id": 599,
+      "name": "LEGO Exclusive",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4000046-1/158075.jpg",
+      "theme_ids": "599"
+    },
+    {
+      "id": 576,
+      "name": "LEGO Ideas and CUUSOO",
+      "img_url": "https://cdn.rebrickable.com/media/sets/21356-1/153009.jpg",
+      "theme_ids": "576"
+    },
+    {
+      "id": 683,
+      "name": "LEGO Originals",
+      "img_url": "https://cdn.rebrickable.com/media/sets/11926-1/15936.jpg",
+      "theme_ids": "683"
+    },
+    {
+      "id": 411,
+      "name": "Legoland",
+      "img_url": "https://cdn.rebrickable.com/media/sets/371-3/14912.jpg",
+      "theme_ids": "411,412,413,414,415,416,417,418,419,420,421,422,423,424"
+    },
+    {
+      "id": 425,
+      "name": "Legoland Parks",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40346-1/86416.jpg",
+      "theme_ids": "425"
+    },
+    {
+      "id": 34,
+      "name": "Make & Create",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5491-1/120382.jpg",
+      "theme_ids": "34,35"
+    },
+    {
+      "id": 432,
+      "name": "Master Builder Academy",
+      "img_url": "https://cdn.rebrickable.com/media/sets/20215-1/339.jpg",
+      "theme_ids": "432"
+    },
+    {
+      "id": 258,
+      "name": "Mindstorms",
+      "img_url": "https://cdn.rebrickable.com/media/sets/51515-1/73629.jpg",
+      "theme_ids": "258,259,260,261,262"
+    },
+    {
+      "id": 577,
+      "name": "Minecraft",
+      "img_url": "https://cdn.rebrickable.com/media/sets/21137-1/3921.jpg",
+      "theme_ids": "577"
+    },
+    {
+      "id": 689,
+      "name": "Minions",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75551-1/55113.jpg",
+      "theme_ids": "689"
+    },
+    {
+      "id": 433,
+      "name": "Minitalia",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5-4/8799.jpg",
+      "theme_ids": "433"
+    },
+    {
+      "id": 580,
+      "name": "Mixels",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41547-1/2990.jpg",
+      "theme_ids": "580"
+    },
+    {
+      "id": 278,
+      "name": "Model Team",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5571-1/91047.jpg",
+      "theme_ids": "278"
+    },
+    {
+      "id": 155,
+      "name": "Modular Buildings",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10326-1/129017.jpg",
+      "theme_ids": "155,156"
+    },
+    {
+      "id": 716,
+      "name": "Modulex",
+      "img_url": null,
+      "theme_ids": "716"
+    },
+    {
+      "id": 693,
+      "name": "Monkie Kid",
+      "img_url": "https://cdn.rebrickable.com/media/sets/80039-1/101631.jpg",
+      "theme_ids": "693"
+    },
+    {
+      "id": 558,
+      "name": "Monster Fighters",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10228-1/17472.jpg",
+      "theme_ids": "558"
+    },
+    {
+      "id": 605,
+      "name": "Nexo Knights",
+      "img_url": "https://cdn.rebrickable.com/media/sets/70357-1/17178.jpg",
+      "theme_ids": "605"
+    },
+    {
+      "id": 785,
+      "name": "Nike",
+      "img_url": "https://cdn.rebrickable.com/media/sets/43008-1/157061.jpg",
+      "theme_ids": "785"
+    },
+    {
+      "id": 434,
+      "name": "Ninja",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6093-1/8917.jpg",
+      "theme_ids": "434"
+    },
+    {
+      "id": 435,
+      "name": "Ninjago",
+      "img_url": "https://cdn.rebrickable.com/media/sets/71799-1/122193.jpg",
+      "theme_ids": "435,616"
+    },
+    {
+      "id": 775,
+      "name": "One Piece",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75640-1/157571.jpg",
+      "theme_ids": "775"
+    },
+    {
+      "id": 301,
+      "name": "Other",
+      "img_url": "https://cdn.rebrickable.com/media/sets/71006-1/16042.jpg",
+      "theme_ids": "301,746"
+    },
+    {
+      "id": 669,
+      "name": "Overwatch",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75975-1/14429.jpg",
+      "theme_ids": "669"
+    },
+    {
+      "id": 437,
+      "name": "Pharaoh's Quest",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7327-1/12888.jpg",
+      "theme_ids": "437"
+    },
+    {
+      "id": 147,
+      "name": "Pirates",
+      "img_url": "https://cdn.rebrickable.com/media/sets/eg00163-1/159884.jpg",
+      "theme_ids": "147,148,153,154"
+    },
+    {
+      "id": 776,
+      "name": "Pokémon",
+      "img_url": null,
+      "theme_ids": "776"
+    },
+    {
+      "id": 438,
+      "name": "Power Functions",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8293-1/124137.jpg",
+      "theme_ids": "438,655"
+    },
+    {
+      "id": 439,
+      "name": "Power Miners",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8964-1/1072.jpg",
+      "theme_ids": "439"
+    },
+    {
+      "id": 440,
+      "name": "Primo",
+      "img_url": null,
+      "theme_ids": "440"
+    },
+    {
+      "id": 598,
+      "name": "Promotional",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40775-1/163362.jpg",
+      "theme_ids": "598,157,471,728,729,778"
+    },
+    {
+      "id": 441,
+      "name": "Quatro",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5358-1/120595.jpg",
+      "theme_ids": "441"
+    },
+    {
+      "id": 112,
+      "name": "Racers",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8461-1/124338.jpg",
+      "theme_ids": "112,114,118,122,123"
+    },
+    {
+      "id": 442,
+      "name": "Rock Raiders",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4990-1/1860.jpg",
+      "theme_ids": "442"
+    },
+    {
+      "id": 668,
+      "name": "Scala",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3290-1/5923.jpg",
+      "theme_ids": "668"
+    },
+    {
+      "id": 603,
+      "name": "Scooby-Doo",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75904-1/14029.jpg",
+      "theme_ids": "603"
+    },
+    {
+      "id": 276,
+      "name": "Sculptures",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3450-1/11875.jpg",
+      "theme_ids": "276,277"
+    },
+    {
+      "id": 206,
+      "name": "Seasonal",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40807-1/155447.jpg",
+      "theme_ids": "206,207,208,209,210,211,212,213,214,215,216,710,751,780,227,228,229,230,231,232,779"
+    },
+    {
+      "id": 443,
+      "name": "Service Packs",
+      "img_url": "https://cdn.rebrickable.com/media/sets/5128-1/16959.jpg",
+      "theme_ids": "443,453,456"
+    },
+    {
+      "id": 747,
+      "name": "Sonic The Hedgehog",
+      "img_url": "https://cdn.rebrickable.com/media/sets/76994-1/120807.jpg",
+      "theme_ids": "747",
+      "set_count": 22
+    },
+    {
+      "id": 126,
+      "name": "Space",
+      "img_url": "https://cdn.rebrickable.com/media/sets/1785-1/11480.jpg",
+      "theme_ids": "126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146"
+    },
+    {
+      "id": 601,
+      "name": "Speed Champions",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75883-1/14504.jpg",
+      "theme_ids": "601"
+    },
+    {
+      "id": 717,
+      "name": "Speed Racer",
+      "img_url": "https://cdn.rebrickable.com/media/sets/8161-1/65730.jpg",
+      "theme_ids": "717"
+    },
+    {
+      "id": 272,
+      "name": "SpongeBob SquarePants",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3827-1/4018.jpg",
+      "theme_ids": "272"
+    },
+    {
+      "id": 458,
+      "name": "Sports",
+      "img_url": "https://cdn.rebrickable.com/media/sets/1199-1/3366.jpg",
+      "theme_ids": "458,459,460,461,462"
+    },
+    {
+      "id": 463,
+      "name": "Spybotics",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3809-1/121308.jpg",
+      "theme_ids": "463"
+    },
+    {
+      "id": 158,
+      "name": "Star Wars",
+      "img_url": null,
+      "theme_ids": "158,171",
+      "set_count": 1004
+    },
+    {
+      "id": 680,
+      "name": "Stranger Things",
+      "img_url": null,
+      "theme_ids": "680",
+      "set_count": 3
+    },
+    {
+      "id": 273,
+      "name": "Studios",
+      "img_url": null,
+      "theme_ids": "273,274",
+      "set_count": 53
+    },
+    {
+      "id": 695,
+      "name": "Super Heroes DC",
+      "img_url": "https://cdn.rebrickable.com/media/sets/76157-1/61221.jpg",
+      "theme_ids": "695,697,698,708,700,701",
+      "set_count": 30
+    },
+    {
+      "id": 696,
+      "name": "Super Heroes Marvel",
+      "img_url": "https://cdn.rebrickable.com/media/sets/76215-1/109029.jpg",
+      "theme_ids": "696,702,704,705,706,755,707,781,782",
+      "set_count": 55
+    },
+    {
+      "id": 690,
+      "name": "Super Mario",
+      "img_url": "https://cdn.rebrickable.com/media/sets/71411-1/104617.jpg",
+      "theme_ids": "690",
+      "set_count": 180
+    },
+    {
+      "id": 365,
+      "name": "System",
+      "img_url": "https://cdn.rebrickable.com/media/sets/080-1/9464.jpg",
+      "theme_ids": "365,368,369,371,372,756",
+      "set_count": 53
+    },
+    {
+      "id": 1,
+      "name": "Technic",
+      "img_url": "https://cdn.rebrickable.com/media/sets/42100-1/20012.jpg",
+      "theme_ids": "1,3,4,16,17,18,19,20,21",
+      "set_count": 433
+    },
+    {
+      "id": 570,
+      "name": "Teenage Mutant Ninja Turtles",
+      "img_url": "https://cdn.rebrickable.com/media/sets/79117-1/6732.jpg",
+      "theme_ids": "570",
+      "set_count": 23
+    },
+    {
+      "id": 561,
+      "name": "The Hobbit and Lord of the Rings",
+      "img_url": "https://cdn.rebrickable.com/media/sets/79018-1/8453.jpg",
+      "theme_ids": "561,562,566",
+      "set_count": 0
+    },
+    {
+      "id": 764,
+      "name": "The Legend of Zelda",
+      "img_url": "https://cdn.rebrickable.com/media/sets/77092-1/141275.jpg",
+      "theme_ids": "764",
+      "set_count": 1
+    },
+    {
+      "id": 578,
+      "name": "The LEGO Movie",
+      "img_url": "https://cdn.rebrickable.com/media/sets/70810-1/13642.jpg",
+      "theme_ids": "578,670",
+      "set_count": 32
+    },
+    {
+      "id": 575,
+      "name": "The Lone Ranger",
+      "img_url": "https://cdn.rebrickable.com/media/sets/79111-1/12029.jpg",
+      "theme_ids": "575",
+      "set_count": 8
+    },
+    {
+      "id": 654,
+      "name": "The Powerpuff Girls",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41288-1/4638.jpg",
+      "theme_ids": "654",
+      "set_count": 2
+    },
+    {
+      "id": 464,
+      "name": "Time Cruisers",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6494-1/10446.jpg",
+      "theme_ids": "464",
+      "set_count": 9
+    },
+    {
+      "id": 50,
+      "name": "Town",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10159-2/10015.jpg",
+      "theme_ids": "50,51,67,86,87,88,89,90,91,92,93,94,104,105,106",
+      "set_count": 33
+    },
+    {
+      "id": 275,
+      "name": "Toy Story",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7597-1/2168.jpg",
+      "theme_ids": "275",
+      "set_count": 21
+    },
+    {
+      "id": 233,
+      "name": "Train",
+      "img_url": "https://cdn.rebrickable.com/media/sets/10001-1/54443.jpg",
+      "theme_ids": "233,234,235,236,240,241",
+      "set_count": 5
+    },
+    {
+      "id": 682,
+      "name": "Trolls: World Tour",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41258-1/70571.jpg",
+      "theme_ids": "682",
+      "set_count": 9
+    },
+    {
+      "id": 625,
+      "name": "Unikitty!",
+      "img_url": "https://cdn.rebrickable.com/media/sets/41456-1/10257.jpg",
+      "theme_ids": "625",
+      "set_count": 26
+    },
+    {
+      "id": 465,
+      "name": "Universal Building Set",
+      "img_url": "https://cdn.rebrickable.com/media/sets/599-1/8940.jpg",
+      "theme_ids": "465,467,470,472,473",
+      "set_count": 61
+    },
+    {
+      "id": 560,
+      "name": "Universe",
+      "img_url": "https://cdn.rebrickable.com/media/sets/55001-1/122474.jpg",
+      "theme_ids": "560",
+      "set_count": 2
+    },
+    {
+      "id": 559,
+      "name": "Value Packs",
+      "img_url": "https://cdn.rebrickable.com/media/sets/4127417-1/14147.jpg",
+      "theme_ids": "559",
+      "set_count": 37
+    },
+    {
+      "id": 713,
+      "name": "VIDIYO",
+      "img_url": "https://cdn.rebrickable.com/media/sets/43115-1/86694.jpg",
+      "theme_ids": "713",
+      "set_count": 50
+    },
+    {
+      "id": 474,
+      "name": "Vikings",
+      "img_url": "https://cdn.rebrickable.com/media/sets/7019-1/67794.jpg",
+      "theme_ids": "474",
+      "set_count": 9
+    },
+    {
+      "id": 768,
+      "name": "Wednesday",
+      "img_url": "https://cdn.rebrickable.com/media/sets/76786-1/159843.jpg",
+      "theme_ids": "768",
+      "set_count": 5
+    },
+    {
+      "id": 475,
+      "name": "Western",
+      "img_url": "https://cdn.rebrickable.com/media/sets/6762-1/119858.jpg",
+      "theme_ids": "475",
+      "set_count": 22
+    },
+    {
+      "id": 765,
+      "name": "Wicked",
+      "img_url": "https://cdn.rebrickable.com/media/sets/75685-1/159026.jpg",
+      "theme_ids": "765",
+      "set_count": 11
+    },
+    {
+      "id": 646,
+      "name": "Xtra",
+      "img_url": "https://cdn.rebrickable.com/media/sets/40311-1/9920.jpg",
+      "theme_ids": "646",
+      "set_count": 19
+    },
+    {
+      "id": 480,
+      "name": "Znap",
+      "img_url": "https://cdn.rebrickable.com/media/sets/3555-1/6131.jpg",
+      "theme_ids": "480",
+      "set_count": 19
+    }
+  ],
+  "updated_counts": "2025-12-28T13:22:32.326Z"
+}

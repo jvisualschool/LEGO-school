@@ -1,0 +1,176 @@
+{
+  "lastUpdated": "2025-12-28T12:17:45.811Z",
+  "count": 17,
+  "items": [
+    {
+      "name": "Star Trek: U.S.S. Enterprise NCC-1701-D™",
+      "price": "509,900 원",
+      "pieces": "3600",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt062f49aeb5924ace/10356_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/star-trek-u-s-s-enterprise-ncc-1701-d-10356",
+      "isComingSoon": false
+    },
+    {
+      "name": "파리 - 사랑의 도시",
+      "price": "109,900 원",
+      "pieces": "958",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt7f0c4925175ed3c0/21064_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/architecture-21064-21064",
+      "isComingSoon": true
+    },
+    {
+      "name": "AT-AT™",
+      "price": "89,900 원",
+      "pieces": "525",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt26f813f1a1f499c6/75440_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/at-at-75440",
+      "isComingSoon": false
+    },
+    {
+      "name": "쇼핑 스트리트",
+      "price": "349,900 원",
+      "pieces": "3456",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt0fab61b6fb67d00c/11371_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/shopping-street-11371",
+      "isComingSoon": true
+    },
+    {
+      "name": "FIFA 월드컵™ 공식 트로피",
+      "price": "249,900 원",
+      "pieces": "2842",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt92b9ec933bd790fc/43020_Prod.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/fifa-world-cup-official-trophy-43020",
+      "isComingSoon": false
+    },
+    {
+      "name": "기묘한 이야기: 크릴 하우스",
+      "price": "399,900 원",
+      "pieces": "2593",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt8170cb2935ea6596/11370_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/stranger-things-the-creel-house-11370",
+      "isComingSoon": true
+    },
+    {
+      "name": "동물 알바 시리즈 28",
+      "price": "5,900 원",
+      "pieces": "7",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltb89414ad1b626107/71051_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/animals-series-28-71051",
+      "isComingSoon": true
+    },
+    {
+      "name": "마법사의 돌™ – 콜렉터 에디션",
+      "price": "229,900 원",
+      "pieces": "1571",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltff6d2570f98dec12/76466_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/sorcerers-stone-collectors-edition-76466",
+      "isComingSoon": false
+    },
+    {
+      "name": "구니스",
+      "price": "409,900 원",
+      "pieces": "2912",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt58ef7328bce3e306/21363_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/the-goonies-21363",
+      "isComingSoon": false
+    },
+    {
+      "name": "베나터급 공격 순양함™",
+      "price": "109,900 원",
+      "pieces": "643",
+      "image": "https://www.lego.com/cdn/cs/set/assets/bltc42756bf25d0dfb6/75441_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/venator-class-attack-cruiser-75441",
+      "isComingSoon": false
+    },
+    {
+      "name": "닌자고 캐릭터_15주년 기념",
+      "price": "54,900 원",
+      "pieces": "447",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt82634a9001a766f2/71866_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/ninja-character-display-15th-anniversary-71866",
+      "isComingSoon": true
+    },
+    {
+      "name": "스파이더맨 대 미스테리오: 데일리 뷰글",
+      "price": "159,900 원",
+      "pieces": "781",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt74be7e0374bd82ac/76342_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/spider-man-vs-mysterio-the-daily-bugle-76342",
+      "isComingSoon": false
+    },
+    {
+      "name": "F1 ACADEMY™ LEGO® 레이스카",
+      "price": "39,900 원",
+      "pieces": "201",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt5683b0970b609557/77258_Prod.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/speed-champions-77258-77258",
+      "isComingSoon": false
+    },
+    {
+      "name": "대결전: 헐크버스터 대 헐크",
+      "price": "69,900 원",
+      "pieces": "413",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt0cd25e92e7f9ad5c/76343_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/epic-battle-hulkbuster-vs-the-hulk-76343",
+      "isComingSoon": false
+    },
+    {
+      "name": "배트맨 대 슈퍼맨™ 배트모빌™",
+      "price": "44,900 원",
+      "pieces": "220",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt317e9db487b5d4a2/76331_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/batman-v-superman-batmobile-76331",
+      "isComingSoon": false
+    },
+    {
+      "name": "벚꽃 풍경",
+      "price": "169,900 원",
+      "pieces": "1892",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt3f6cace2ff7687c6/31218_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/japanese-cherry-blossom-landscape-31218",
+      "isComingSoon": true
+    },
+    {
+      "name": "F1® 더 무비의 APXGP 팀 레이스카",
+      "price": "39,900 원",
+      "pieces": "268",
+      "image": "https://www.lego.com/cdn/cs/set/assets/blt9336738e7f69aaf6/77252_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+      "status": "출시 예정",
+      "badge": "신제품",
+      "url": "https://www.lego.com/ko-kr/product/apxgp-team-race-car-from-f1-the-movie-77252",
+      "isComingSoon": true
+    }
+  ]
+}

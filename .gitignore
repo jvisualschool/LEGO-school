@@ -1,0 +1,28 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependencies
+node_modules/
+# package-lock.json (Keep for version control consistency)
+
+# Build Output
+dist/
+build/
+
+# Backups & Local Data
+backups/
+screenshot/
+*.bak
+.agent/
+
+# Environment / Sensitive
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+
+# Developer Tools
+test-*.js
