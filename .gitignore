@@ -13,7 +13,6 @@ build/
 
 # Backups & Local Data
 backups/
-screenshot/
 *.bak
 .agent/
 
